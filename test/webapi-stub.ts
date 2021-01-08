@@ -54,9 +54,10 @@ export class WebApiStub implements ComponentFramework.WebApi {
             }
         }
         const response: any = await WebApiClient.Retrieve(params);
+        response.entities = response.value
         // TODO: check if the odata request is the same format
         return (
-            response.value
+            response
          ) as ComponentFramework.WebApi.RetrieveMultipleResponse;
     }
 
