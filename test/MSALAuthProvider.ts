@@ -26,7 +26,7 @@ export const createMsalAuthProvider = (config: IConfig): MsalAuthProvider => {
             },
             system: {
                 logger: new Logger((logLevel, message, containsPii) => {
-                    console.log("[MSAL]", message);
+                    // console.log("[MSAL]", message);
                 },
                 {
                     level: LogLevel.Verbose,
