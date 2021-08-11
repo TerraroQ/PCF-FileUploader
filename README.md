@@ -3,7 +3,7 @@ Control to enhance the upload annotation/activitymimeattachment UX. This PCF off
 
 **Demo GIFS**
 ![fileupload-appointment](https://user-images.githubusercontent.com/6584650/129046114-15dc9b20-2c6c-4804-bfa9-483803e5f816.gif)
-![fileupload](https://user-images.githubusercontent.com/6584650/129046119-14f6e484-327f-4b45-b45b-d4b9a8e47db7.gif)
+![fileupload-standard2](https://user-images.githubusercontent.com/6584650/129047293-a092d301-17d5-49ca-ac9b-664cea4f5f25.gif)
 
 **Setup PCF Control**
 ![config](https://user-images.githubusercontent.com/6584650/129047014-828a969f-089b-4a4e-8950-3292e462d096.PNG)
