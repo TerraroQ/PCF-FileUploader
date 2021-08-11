@@ -15,3 +15,8 @@
 
 # npm build artifacts
 **/dist
+
+# testing
+/test
+/wwwroot
+/webpack.config.js
